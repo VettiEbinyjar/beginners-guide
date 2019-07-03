@@ -1,2 +1,3 @@
 # beginners-guide
-you love it
+#you love it
+print("hello everyone")
